@@ -1,0 +1,2 @@
+TRANSACTION_COLLECTION = 'transactions'
+MESSAGE_COLLECTION = 'messages'
